@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f6f2" />
+    <meta name="description" content="Maharishi University of Information Technology student placement and career portal." />
+    <title>Placement Portal | MUIT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar">
+        <a class="brand" href="#home" aria-label="MUIT Placement Portal home">
+          <span class="brand-mark">M</span>
+          <span class="brand-copy"><strong>MUIT</strong><small>CAREER SERVICES</small></span>
+        </a>
+        <div class="nav-label">WORKSPACE</div>
+        <nav id="primaryNav" aria-label="Main navigation"></nav>
+        <div class="sidebar-bottom">
+          <div class="campus-note"><span class="campus-dot"></span><span><strong>Maharishi University</strong><small>of Information Technology</small></span></div>
+          <div id="accountAction"></div>
+        </div>
+      </aside>
+      <div class="workspace">
+        <header class="topbar">
+          <button class="icon-button menu-toggle" id="menuToggle" aria-label="Toggle navigation" title="Toggle navigation">☰</button>
+          <div class="breadcrumb"><span>MUIT</span><span class="crumb-slash">/</span><strong id="currentSection">Overview</strong></div>
+          <div class="topbar-right">
+            <span class="academic-year">PLACEMENT SEASON <strong>2025–26</strong></span>
+            <button class="profile-chip" id="profileChip" type="button" aria-label="Sign in"> <span class="avatar" id="avatar">G</span><span id="profileName">Guest</span><span class="chevron">⌄</span></button>
+          </div>
+        </header>
+        <main id="mainContent" tabindex="-1"></main>
+        <footer class="site-footer"><span>Maharishi University of Information Technology (MUIT)</span><span>Placement & Career Services <i></i> 2025–26</span></footer>
+      </div>
+    </div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <dialog id="dialog" aria-labelledby="dialogTitle"></dialog>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,378 @@
+{
+  "students": [
+    {
+      "id": "STU-2026-001",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@muit.ac.in",
+      "phone": "9876543210",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 8.4,
+      "skills": [
+        "JavaScript",
+        "React",
+        "SQL"
+      ],
+      "status": "Active",
+      "passwordHash": "5bc020a5a08ae044e08825c34e94371c:04d199221b844f4c0799027484b9eaee6e53fc6b64719483853a9cf5f221393a9a61ac93eadfae7f808e5e72164e647cabbf3d95c5761ba1bb2dda2028351414"
+    },
+    {
+      "id": "STU-2026-002",
+      "name": "Isha Verma",
+      "email": "isha.verma@muit.ac.in",
+      "phone": "9876543211",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 9.1,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "status": "Active",
+      "passwordHash": "68167a55a7471b556ababbf3e873e708:bd4a98e73ffde55a4643cef4d0b006c445339c690665a2167130f37da536a387f366bb67c4e63c22ac0450bf0f33bb800bf6ccaf5c8c6792533a18ce1b99887a"
+    },
+    {
+      "id": "STU-2026-003",
+      "name": "Kabir Singh",
+      "email": "kabir.singh@muit.ac.in",
+      "phone": "9876543212",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 7.8,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "status": "Active",
+      "passwordHash": "6620da49c7cb210eb6bfe8a458daa8b5:113772fb69f85532e07c5a853860820463d513b193956172743ffe02e702748cc484404a289f1f50f3fa378ba3413ae1ee5e26ec750b36ba8af0c3ed16c726bf"
+    },
+    {
+      "id": "STU-2026-004",
+      "name": "Meera Gupta",
+      "email": "meera.gupta@muit.ac.in",
+      "phone": "9876543213",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 8.7,
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "HTML"
+      ],
+      "status": "Active",
+      "passwordHash": "70c772d9a1f8aacd7022f6a7168f9ae9:c457bd2bcfd1c56f3b4d5dac56ce4d5218e2079781ff0b088bfa7964a21711f61b5b5351d7e8ffba617dc52039e02be565a4d13f283b8956390831ccfca8633a"
+    },
+    {
+      "id": "STU-2026-005",
+      "name": "Rohan Patel",
+      "email": "rohan.patel@muit.ac.in",
+      "phone": "9876543214",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 7.2,
+      "skills": [
+        "C++",
+        "Data Structures",
+        "Python"
+      ],
+      "status": "Active",
+      "passwordHash": "6dafcbd54c5f0dddaea9aafb4afbe668:3cbf4a19d3cbc0f7ba5e26eff4e1c9c973173383df91eea296561af5d271974d254649e01460bc68990411bd10bec627bd9980b65064d57f2abde82b8075b685"
+    },
+    {
+      "id": "STU-2026-006",
+      "name": "Ananya Das",
+      "email": "ananya.das@muit.ac.in",
+      "phone": "9876543215",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 8.9,
+      "skills": [
+        "Java",
+        "Cloud",
+        "AWS"
+      ],
+      "status": "Active",
+      "passwordHash": "6b0d5c4c5704faf0d3eca29eaaff96ff:59736247d7dc96af05ca988fadceb95be0bc5808fec5744703cbf1a78327e34ed839fc7fa93a9b813564bd9da9348c456c1d91c52e19281de0b4e30c470e4022"
+    },
+    {
+      "id": "STU-2026-007",
+      "name": "Dev Malhotra",
+      "email": "dev.malhotra@muit.ac.in",
+      "phone": "9876543216",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 6.8,
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "status": "Active",
+      "passwordHash": "615eaf16800e1033198131a51012b0a0:80f15e4e5affd011773731b2edfdad193805196b98ad46fe24bf7abbd0cb0d5572783e2596864c98d4bb3a5e28f2f0614ed73778b81def3f0cb57ed92fb8c5ad"
+    },
+    {
+      "id": "STU-2026-008",
+      "name": "Sara Khan",
+      "email": "sara.khan@muit.ac.in",
+      "phone": "9876543217",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 8.2,
+      "skills": [
+        "Testing",
+        "Selenium",
+        "Java"
+      ],
+      "status": "Active",
+      "passwordHash": "c4c15c8935a005ace8020827df5dd18b:b06cf772cce6380947ddd47ccc8735267fdfb2ff0d7bcbd0d0de7d4982266c1d6b3677714794e7391ac3f5ac9b247a9df7e8a5264d1e35b04ef6855f2d0409d3"
+    },
+    {
+      "id": "STU-2026-009",
+      "name": "Raj Babu",
+      "email": "pankajsahani8188@gmail.com",
+      "phone": "8114141088",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 7,
+      "skills": [],
+      "status": "Active",
+      "passwordHash": "2f9af71a64761674fd132fa901952fa2:aa8d7b2e299cce203c8bfeefd14fe670251c332e3727c9adcd95dd28bb3d53bc122fbfeae99e5fa705915b1c6e1a70b2682f7844f7007fd04b1e0afe864d7f49"
+    },
+    {
+      "id": "STU-2026-010",
+      "name": "Indrajeet Sahani",
+      "email": "sahaniindrajeet676@gmail.com",
+      "phone": "8114141088",
+      "course": "BCA",
+      "branch": "Computer Applications",
+      "batch": "2026",
+      "cgpa": 7,
+      "skills": [],
+      "status": "Active",
+      "passwordHash": "837e06fabfd5c4ee0a2f39aef0d6b09e:7612581227ce51f3c92286d33a4041d7cd1fa67d15c6074fbfda1cdd8d18f6b30310fc05cba58dc01741bc2f7a2d29ff22a240598387ba2f50a7438539f98ae1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "CMP-001",
+      "name": "Infosys",
+      "industry": "IT Services",
+      "location": "Bengaluru, India",
+      "website": "https://www.infosys.com",
+      "about": "Global leader in next-generation digital services and consulting.",
+      "hiring": true
+    },
+    {
+      "id": "CMP-002",
+      "name": "HCLTech",
+      "industry": "Technology",
+      "location": "Noida, India",
+      "website": "https://www.hcltech.com",
+      "about": "Global technology company helping enterprises reimagine their businesses.",
+      "hiring": true
+    },
+    {
+      "id": "CMP-003",
+      "name": "Deloitte",
+      "industry": "Consulting",
+      "location": "Gurugram, India",
+      "website": "https://www.deloitte.com",
+      "about": "Professional services firm delivering strategy, consulting, and technology solutions.",
+      "hiring": true
+    },
+    {
+      "id": "CMP-004",
+      "name": "Tech Mahindra",
+      "industry": "IT Services",
+      "location": "Noida, India",
+      "website": "https://www.techmahindra.com",
+      "about": "Digital transformation and technology consulting for global businesses.",
+      "hiring": true
+    },
+    {
+      "id": "CMP-005",
+      "name": "Paytm",
+      "industry": "Fintech",
+      "location": "Noida, India",
+      "website": "https://paytm.com",
+      "about": "Digital payments and financial services platform.",
+      "hiring": false
+    },
+    {
+      "id": "CMP-006",
+      "name": "adroit",
+      "industry": "bpo",
+      "location": "noida sec 63",
+      "website": "",
+      "about": "",
+      "hiring": true
+    }
+  ],
+  "jobs": [
+    {
+      "id": "DRV-001",
+      "companyId": "CMP-001",
+      "title": "Systems Engineer",
+      "type": "Full time",
+      "location": "Bengaluru / Hybrid",
+      "package": "₹ 6.5 LPA",
+      "minCgpa": 7,
+      "eligibleCourses": [
+        "BCA",
+        "B.Tech"
+      ],
+      "deadline": "2026-10-18",
+      "description": "Build and support enterprise applications with a collaborative engineering team.",
+      "skills": [
+        "Java",
+        "SQL",
+        "Problem solving"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": "DRV-002",
+      "companyId": "CMP-002",
+      "title": "Graduate Trainee",
+      "type": "Full time",
+      "location": "Noida",
+      "package": "₹ 5.8 LPA",
+      "minCgpa": 6.5,
+      "eligibleCourses": [
+        "BCA",
+        "B.Tech",
+        "MCA"
+      ],
+      "deadline": "2026-10-24",
+      "description": "Start your technology career through a structured learning and delivery programme.",
+      "skills": [
+        "Communication",
+        "Programming",
+        "SQL"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": "DRV-003",
+      "companyId": "CMP-003",
+      "title": "Technology Analyst",
+      "type": "Full time",
+      "location": "Gurugram",
+      "package": "₹ 7.2 LPA",
+      "minCgpa": 7.5,
+      "eligibleCourses": [
+        "BCA",
+        "B.Tech",
+        "MCA"
+      ],
+      "deadline": "2026-11-02",
+      "description": "Help clients solve complex business problems through modern technology.",
+      "skills": [
+        "Python",
+        "Data analysis",
+        "Communication"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": "DRV-004",
+      "companyId": "CMP-004",
+      "title": "Associate Software Engineer",
+      "type": "Full time",
+      "location": "Noida / Hybrid",
+      "package": "₹ 5.2 LPA",
+      "minCgpa": 6,
+      "eligibleCourses": [
+        "BCA",
+        "B.Tech"
+      ],
+      "deadline": "2026-11-12",
+      "description": "Join a product team delivering digital platforms across industries.",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": "DRV-005",
+      "companyId": "CMP-005",
+      "title": "Quality Assurance Intern",
+      "type": "Internship",
+      "location": "Noida",
+      "package": "₹ 25,000 / month",
+      "minCgpa": 7,
+      "eligibleCourses": [
+        "BCA",
+        "MCA"
+      ],
+      "deadline": "2026-10-15",
+      "description": "Work with the quality team to test reliable customer-facing products.",
+      "skills": [
+        "Testing",
+        "Attention to detail"
+      ],
+      "status": "Open"
+    }
+  ],
+  "applications": [
+    {
+      "id": "APP-001",
+      "studentId": "STU-2026-001",
+      "jobId": "DRV-001",
+      "appliedAt": "2026-09-12T10:30:00.000Z",
+      "status": "Under review"
+    },
+    {
+      "id": "APP-002",
+      "studentId": "STU-2026-002",
+      "jobId": "DRV-003",
+      "appliedAt": "2026-09-14T12:15:00.000Z",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "APP-003",
+      "studentId": "STU-2026-004",
+      "jobId": "DRV-002",
+      "appliedAt": "2026-09-16T08:45:00.000Z",
+      "status": "Interview scheduled"
+    },
+    {
+      "id": "APP-004",
+      "studentId": "STU-2026-006",
+      "jobId": "DRV-004",
+      "appliedAt": "2026-09-17T11:20:00.000Z",
+      "status": "Under review"
+    },
+    {
+      "id": "APP-005",
+      "studentId": "STU-2026-003",
+      "jobId": "DRV-002",
+      "appliedAt": "2026-09-19T09:10:00.000Z",
+      "status": "Applied"
+    },
+    {
+      "id": "APP-006",
+      "studentId": "STU-2026-009",
+      "jobId": "DRV-001",
+      "appliedAt": "2026-09-27T18:44:18.694Z",
+      "status": "Applied"
+    }
+  ],
+  "admin": {
+    "email": "admin@muit.ac.in",
+    "passwordHash": "071ee0a526abeae4ac03de2802942b22:c580810c5282cb15652723a66c2a558a535697826754f70ac5a878244f95ff774710771264201d59f972c403269cdfd2938f9205cc9a884b6d14edbbd73192ac"
+  }
+}
